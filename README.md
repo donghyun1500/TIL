@@ -6,4 +6,4 @@
 ## 작성법 
 - 폴더와 파일명은 될 수 있으면 영문으로 작성한다.  
 - [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성하고 파일 확장자는 `md`.  
-- 짧고 간결하며 핵심적인 문장을 사용한다.
+- 코딩과 관련하여는 짧고 간결하게 핵심적인 문장과 필요하면 외부 링크를 사용한다. 
