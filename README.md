@@ -5,4 +5,4 @@
 
 ## 작성법 
 - [Github-Flavoured Markdown](https://guides.github.com/features/mastering-markdown/)으로 작성하고 파일 확장자는 `md`.  
-- 적어도 제 3자가 알아볼수 있게는 적기! 
+- 적어도 제 3자가 알아볼 수 있게는 적기! 
