@@ -254,4 +254,7 @@ usernameField, passwordField에는 일치하는 로그인 라우터의 req.body 
 
 done이 호출된 후에는 다시 passport.authenticate의 콜백 함수에서 나머지 로직이 실행됩니다.!
 
+![image](https://user-images.githubusercontent.com/85468215/126521384-66c96223-f64b-44ea-8a12-ee966730b002.png)
+
+
 참조: Node.js 교과서 라고함.
